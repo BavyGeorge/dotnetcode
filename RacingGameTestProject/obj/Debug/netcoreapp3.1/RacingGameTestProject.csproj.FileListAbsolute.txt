@@ -1,0 +1,16 @@
+C:\Users\thom\source\repos\RacingGameTestProject\RacingGameTestProject\bin\Debug\netcoreapp3.1\RacingGameTestProject.exe
+C:\Users\thom\source\repos\RacingGameTestProject\RacingGameTestProject\bin\Debug\netcoreapp3.1\RacingGameTestProject.deps.json
+C:\Users\thom\source\repos\RacingGameTestProject\RacingGameTestProject\bin\Debug\netcoreapp3.1\RacingGameTestProject.runtimeconfig.json
+C:\Users\thom\source\repos\RacingGameTestProject\RacingGameTestProject\bin\Debug\netcoreapp3.1\RacingGameTestProject.runtimeconfig.dev.json
+C:\Users\thom\source\repos\RacingGameTestProject\RacingGameTestProject\bin\Debug\netcoreapp3.1\RacingGameTestProject.dll
+C:\Users\thom\source\repos\RacingGameTestProject\RacingGameTestProject\bin\Debug\netcoreapp3.1\RacingGameTestProject.pdb
+C:\Users\thom\source\repos\RacingGameTestProject\RacingGameTestProject\obj\Debug\netcoreapp3.1\RacingGameTestProject.Form1.resources
+C:\Users\thom\source\repos\RacingGameTestProject\RacingGameTestProject\obj\Debug\netcoreapp3.1\RacingGameTestProject.Properties.Resources.resources
+C:\Users\thom\source\repos\RacingGameTestProject\RacingGameTestProject\obj\Debug\netcoreapp3.1\RacingGameTestProject.csproj.GenerateResource.cache
+C:\Users\thom\source\repos\RacingGameTestProject\RacingGameTestProject\obj\Debug\netcoreapp3.1\RacingGameTestProject.AssemblyInfoInputs.cache
+C:\Users\thom\source\repos\RacingGameTestProject\RacingGameTestProject\obj\Debug\netcoreapp3.1\RacingGameTestProject.AssemblyInfo.cs
+C:\Users\thom\source\repos\RacingGameTestProject\RacingGameTestProject\obj\Debug\netcoreapp3.1\RacingGameTestProject.csproj.CoreCompileInputs.cache
+C:\Users\thom\source\repos\RacingGameTestProject\RacingGameTestProject\obj\Debug\netcoreapp3.1\RacingGameTestProject.dll
+C:\Users\thom\source\repos\RacingGameTestProject\RacingGameTestProject\obj\Debug\netcoreapp3.1\RacingGameTestProject.pdb
+C:\Users\thom\source\repos\RacingGameTestProject\RacingGameTestProject\obj\Debug\netcoreapp3.1\RacingGameTestProject.genruntimeconfig.cache
+C:\Users\thom\source\repos\RacingGameTestProject\RacingGameTestProject\obj\Debug\netcoreapp3.1\RacingGameTestProject.csprojAssemblyReference.cache
